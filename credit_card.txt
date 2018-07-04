@@ -1,0 +1,1 @@
+Shows the credit of all with good fico scores.
